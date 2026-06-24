@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=80&lines=(Hello%2C+World!)" alt="Hello, World!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=319E31&center=true&vCenter=true&repeat=true&width=600&height=80&lines=(Hello%2C+World!)" alt="Hello, World!" />
 </div>
 
 # 🧑‍💻 Hi, I'm Forrest.
 
 [![Homepage](https://img.shields.io/badge/Homepage-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Forrest404)
-[![Follow](https://img.shields.io/github/followers/Forrest404?label=Follow&style=for-the-badge&logo=github&color=319E31&labelColor=24292e)](https://github.com/Forrest404)
+[![Follow](https://img.shields.io/github/followers/Forrest404?label=Follow&style=for-the-badge&logo=github&color=319E31&labelColor=333)](https://github.com/Forrest404)
 
 ## Talking about Personal Stuffs:
 
