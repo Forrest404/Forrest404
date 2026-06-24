@@ -8,6 +8,6 @@ I build web apps and embedded hardware. Founder of Forrest Labs.
 - [vision](https://github.com/Forrest404/vision) — real-time instance segmentation from your camera.
 - [clap-to-open](https://github.com/Forrest404/clap-to-open) — clap to relaunch your whole workspace, each app on the right monitor.
 
-**Tools I reach for**
+**Tools**
 
 TypeScript · Next.js · Supabase · Python · C++ (ESP32 / Arduino)
