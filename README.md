@@ -9,7 +9,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://forrestlabs.org/)** &amp; **[NOUR systems](https://www.noursystems.org)** (a platform that gives NGO and emergency teams the tools to coordinate and respond in crises);
+- 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://forrestlabs.org/)** &amp; **[NOUR systems](https://www.noursystems.org)**
 - 🌱 &nbsp; I'm currently learning **embedded systems &amp; low-level firmware**;
 
 ## Technologies I'm Learning 📚
