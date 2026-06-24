@@ -2,19 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=600&height=80&lines=(Hello%2C+World!)" alt="Hello, World!" />
 </div>
 
-# 🧑‍💻 Hi, I'm Forrest, a Developer 🚀 from the UK.
+# 🧑‍💻 Hi, I'm Forrest.
 
 [![Homepage](https://img.shields.io/badge/Homepage-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Forrest404)
 [![Follow](https://img.shields.io/github/followers/Forrest404?label=Follow&style=for-the-badge&logo=github&color=24292e&labelColor=24292e)](https://github.com/Forrest404)
 
 ## Talking about Personal Stuffs:
 
-- 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://github.com/Forrest404)** &amp; **Masmou'** (an Arabic kids' audiobook app);
+- 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://github.com/Forrest404)** &amp; **NOUR systems** (a platform that gives NGO and emergency teams the tools to coordinate and respond in crises);
 - 🌱 &nbsp; I'm currently learning **embedded systems &amp; low-level firmware**;
-- 👯 &nbsp; I'm looking to collaborate on **open-hardware / ESP32 projects**;
-- 🤔 &nbsp; I'm looking for help with **scaling Next.js + Supabase apps**;
-- 💬 &nbsp; Ask me about **web apps, ESP32, or hardware builds** — happy to help;
-- ⚡ &nbsp; Fun fact: I build both the software *and* the hardware it runs on.
 
 ## Technologies I'm Learning 📚
 
