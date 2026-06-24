@@ -11,3 +11,7 @@ I build web apps and embedded hardware. Founder of Forrest Labs.
 **Tools**
 
 TypeScript · Next.js · Supabase · Python · C++ (ESP32 / Arduino)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Forrest404/Forrest404/output/snake.svg" alt="contribution snake animation" />
