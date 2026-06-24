@@ -14,4 +14,8 @@ TypeScript · Next.js · Supabase · Python · C++ (ESP32 / Arduino)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Forrest404/Forrest404/output/snake.svg" alt="contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Forrest404/Forrest404/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Forrest404/Forrest404/output/snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Forrest404/Forrest404/output/snake-dark.svg" />
+</picture>
