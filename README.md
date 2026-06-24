@@ -5,7 +5,7 @@
 # 🧑‍💻 Hi, I'm Forrest.
 
 [![Homepage](https://img.shields.io/badge/Homepage-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Forrest404)
-[![Follow](https://img.shields.io/github/followers/Forrest404?label=Follow&style=for-the-badge&logo=github&color=319E31&labelColor=333)](https://github.com/Forrest404)
+[![Follow](https://img.shields.io/github/followers/Forrest404?label=Follow&style=for-the-badge&logo=github&color=333&labelColor=333)](https://github.com/Forrest404)
 
 ## Talking about Personal Stuffs:
 
