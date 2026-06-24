@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=600&height=80&lines=(Hello%2C+World!)" alt="Hello, World!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&height=80&lines=(Hello%2C+World!)" alt="Hello, World!" />
 </div>
 
 # 🧑‍💻 Hi, I'm Forrest.
