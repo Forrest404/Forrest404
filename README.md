@@ -10,10 +10,7 @@
 ## Talking about Personal Stuffs:
 
 - 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://forrestlabs.org/)**, **[NOUR systems](https://www.noursystems.org)** &amp; **[unidex](https://unidex.shop)**
-- 🌱 &nbsp; I'm currently learning **- C++ for microcontrollers
-- ESP32 and Arduino / PlatformIO
-- Embedded e-ink and low-power design (deep sleep)
-- Wireless basics: ESP-NOW and Wi-Fi**;
+- 🌱 &nbsp; I'm currently learning: **ESP32 Embedded e-ink and low-power design & ESP-NOW and Wi-Fi**;
 
 ## Technologies I'm Learning 📚
 
@@ -43,7 +40,6 @@
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 <br/>
 
