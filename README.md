@@ -10,7 +10,7 @@
 ## Talking about Personal Stuffs:
 
 - 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://forrestlabs.org/)**, **[NOUR systems](https://www.noursystems.org)** &amp; **[unidex](https://unidex.shop)**
-- 🌱 &nbsp; I'm currently learning: **ESP32 Embedded e-ink and low-power design & ESP-NOW and Wi-Fi**;
+- 🌱 &nbsp; I'm currently learning: **ESP32 Embedded, e-ink and low-power design & ESP-NOW and Wi-Fi**;
 
 ## Technologies I'm Learning 📚
 
