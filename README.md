@@ -9,7 +9,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://forrestlabs.org/)** &amp; **[NOUR systems](https://www.noursystems.org)**
+- 🧑‍💻 &nbsp; I'm currently working on **[Forrest Labs](https://forrestlabs.org/)**, **[NOUR systems](https://www.noursystems.org)** &amp; **[unidex](https://unidex.shop)**
 - 🌱 &nbsp; I'm currently learning **embedded systems &amp; low-level firmware**;
 
 ## Technologies I'm Learning 📚
